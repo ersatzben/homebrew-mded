@@ -1,6 +1,6 @@
 cask "mded" do
-  version "1.0.0"
-  sha256 "6ee432f88b2111b10d37283bbe92d89b7b319a6b32e814e299614247b51d8a66"
+  version "1.1.0"
+  sha256 "18ebfcd983f5c3e9d19ecce32c0e124932133074fee0d7a00275ff5b96d25a28"
 
   url "https://github.com/ersatzben/mded/releases/download/v#{version}/mded-#{version}.zip"
   name "mded"
